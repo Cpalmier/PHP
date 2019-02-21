@@ -1,0 +1,44 @@
+table {
+	width:100%;
+	height:100%;
+	border-collapse:separate;
+	letter-spacing:0.1%;
+}
+td, tr {
+	position:relative;
+	border:1px solid rgb(0,0,0);
+	text-align:center;
+	font-size:1vw;
+}
+tr {
+	padding:1vw;
+}
+b {
+	font-size:1vw;;
+}
+.met {
+	background-color:rgb(213,83,253);
+}
+.trans {
+	background-color:lightblue;
+}
+.gaz {
+	background-color:yellow;
+}
+.nonmet {
+	background-color:rgb(240,34,36);
+}
+.numero {
+	font-size:70%;
+	text-align:left;
+	position:absolute;
+	left:1%;
+	bottom:10%;
+}
+.poids {
+	font-size:70%;
+	text-align:right;
+	position:absolute;
+	top:10%;
+	right:1%;
+}

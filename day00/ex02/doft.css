@@ -1,0 +1,168 @@
+.top {
+	margin-top:20px;
+	position:relative;
+	border:solid rgb(144,144,144);
+	border-radius:10px;
+	box-shadow:10px 12px 10px black;
+	background-color:rgb(144,144,144);
+	height:13%;
+	width:76%;
+	margin-left:12%;
+}
+#doft {
+	height:90%;
+	width:auto;
+	margin-top:10px;;
+}
+#close {
+	width:30px;
+	position:absolute;
+	margin-top:7%;
+	margin-left:66.5%;
+}
+#reload {
+	width:30px;
+	position:absolute;
+	margin-top:0.3%;
+	margin-left:66.5%;
+}
+#loupe {
+	width:340px;
+	position:absolute;
+	right:35px;
+	top:10px;
+}
+
+.left {
+	background-color:rgb(144,144,144);
+	position:absolute;
+	border:solid rgb(144,144,144);
+	box-shadow:10px 12px 10px black;
+	border-radius:10px;
+	margin-left:13.5%;
+	margin-right:79%;
+	margin-top:1.2%;
+}
+#arrow {
+	margin-left:40px;
+	margin-top:19px;
+	width:55%;
+}
+#main {
+	margin-left:40px;
+	margin-top:10px;
+	width:53%;
+}
+#oeil {
+	margin-top:2px;
+	margin-left:40px;
+	width:52%;
+	border:7px solid red;
+	border-radius:5px;
+}
+#outil {
+	margin-left:40px;
+	margin-top:8px;
+	width:54%;
+}
+#chat {
+	margin-top:5px;
+	margin-left:40px;
+	margin-bottom:30px;
+	width:53%;
+}
+
+.center {
+	background-color:rgb(144,144,144);
+	position:absolute;
+	border:solid rgb(144,144,144);
+	box-shadow:10px 12px 10px black;
+	border-radius:10px;
+	height:59%;
+	width:55%;
+	margin-top:1.2%;
+	margin-left:22.2%;
+}
+#cluster {
+	padding:11px;
+	width:98.5%
+}
+
+.right {
+	background-color:rgb(144,144,144);
+	position:absolute;
+	height:580px;
+	border:solid rgb(144,144,144);
+	box-shadow:10px 12px 10px black;
+	border-radius:10px;
+	margin-left:79%;
+	margin-right:13.5%;
+	margin-top:1.2%;
+}
+#book {
+	width:52%;
+	margin-top:25px;
+	margin-left:45px;
+}
+#towel {
+	width:56%;
+	margin-top:10px;
+	margin-left:42px;
+}
+#brick {
+	background-image:url("resources/brick.jpg");
+	width:160px;
+	height:95px;
+	margin-top:10px;
+	margin-left:10px;
+}
+
+.pop_up {
+	background-color:rgb(136,255,137);
+	position:absolute;
+	border:solid rgb(136,255,137);
+	box-shadow:10px 12px 10px black;
+	border-radius:10px;
+	margin-left:250px;
+	margin-top:740px;
+	font-size:27px;
+	letter-spacing:1px;
+	font-family:Times;
+	float:top;
+	width:700px;
+	height:240px;
+}
+.paragraphe{
+	margin-left:10px;
+	margin-top:10px;
+	margin-bottom:0px;
+}
+.entrer {
+	font-size:44px;
+}
+.question {
+	font-size:25px;
+	font-style:italic;
+}
+.p2{
+	margin-left:10px;
+}
+.reponse {
+	height:28px;
+	width:530px;
+	border:inset;
+}
+.bouton {
+	border:1.1px solid #A9A9A9;
+	background-color:#F5F5F5;
+	border-radius:3px;
+	height:25px;
+	font-size:15px;
+	letter-spacing:1px;
+	padding-bottom:20px;
+	width:90px;
+}
+
+body {
+	background-color:rgb(80,80,80);
+}
